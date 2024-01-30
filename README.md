@@ -1,11 +1,5 @@
 # Path-finding-AI
 
-Unfortunately, code sharing is not possible for this project, please find the link to the demo video below.
-
-
-
-# self-solving-sudoku
-
 #languages used: javascript
 
 # About the project
